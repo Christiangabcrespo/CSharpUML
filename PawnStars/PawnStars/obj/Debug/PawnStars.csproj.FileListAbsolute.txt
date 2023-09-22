@@ -1,0 +1,7 @@
+C:\Users\Christian\source\repos\PawnStars\PawnStars\bin\Debug\PawnStars.exe.config
+C:\Users\Christian\source\repos\PawnStars\PawnStars\bin\Debug\PawnStars.exe
+C:\Users\Christian\source\repos\PawnStars\PawnStars\bin\Debug\PawnStars.pdb
+C:\Users\Christian\source\repos\PawnStars\PawnStars\obj\Debug\PawnStars.csproj.AssemblyReference.cache
+C:\Users\Christian\source\repos\PawnStars\PawnStars\obj\Debug\PawnStars.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\PawnStars\PawnStars\obj\Debug\PawnStars.exe
+C:\Users\Christian\source\repos\PawnStars\PawnStars\obj\Debug\PawnStars.pdb

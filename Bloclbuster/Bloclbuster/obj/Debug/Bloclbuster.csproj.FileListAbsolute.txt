@@ -1,0 +1,7 @@
+C:\Users\Christian\source\repos\Bloclbuster\Bloclbuster\bin\Debug\Bloclbuster.exe.config
+C:\Users\Christian\source\repos\Bloclbuster\Bloclbuster\bin\Debug\Bloclbuster.exe
+C:\Users\Christian\source\repos\Bloclbuster\Bloclbuster\bin\Debug\Bloclbuster.pdb
+C:\Users\Christian\source\repos\Bloclbuster\Bloclbuster\obj\Debug\Bloclbuster.csproj.AssemblyReference.cache
+C:\Users\Christian\source\repos\Bloclbuster\Bloclbuster\obj\Debug\Bloclbuster.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\Bloclbuster\Bloclbuster\obj\Debug\Bloclbuster.exe
+C:\Users\Christian\source\repos\Bloclbuster\Bloclbuster\obj\Debug\Bloclbuster.pdb
